@@ -1,0 +1,20 @@
+
+fastapi
+uvicorn
+httpx
+numpy
+scikit-learn
+sentence-transformers
+transformers
+torch
+pydantic
+python-dotenv
+sqlalchemy
+databases
+aiofiles
+jinja2
+# For TypeScript frontend/backend
+# (run npm install later in frontend folder)
+```
+
+```plaintext
