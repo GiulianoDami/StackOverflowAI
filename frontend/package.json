@@ -1,0 +1,26 @@
+
+{
+  "name": "stackoverflowai-frontend",
+  "version": "1.0.0",
+  "description": "Front-end for StackOverflowAI",
+  "main": "index.tsx",
+  "scripts": {
+    "start": "vite",
+    "build": "tsc && vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4",
+    "vite": "^4.0.0",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11"
+  }
+}
+```
+
+```plaintext
